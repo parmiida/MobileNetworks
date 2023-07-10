@@ -1,5 +1,5 @@
 # Mobile Networks Final Project
-# Alioth project - Group 15 : Parmida Majmasanaye, Zahra Momeninezhad
+Alioth project - Group 15 : Parmida Majmasanaye, Zahra Momeninezhad
 
 In this project, we are going to measure the quality of Bale Messenger. First, we will review the concepts of QoS and QoE, and then we will discuss what is meant by the quality measurement of a messenger.
 
